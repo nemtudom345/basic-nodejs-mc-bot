@@ -1,0 +1,24 @@
+{
+  "name": "basic-nodejs-mc-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nemtudom345/basic-nodejs-mc-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nemtudom345/basic-nodejs-mc-bot/issues"
+  },
+  "homepage": "https://github.com/nemtudom345/basic-nodejs-mc-bot#readme",
+  "dependencies": {
+    "minecraft-pinger": "^1.0.5",
+    "minecraft-protocol": "^1.22.0"
+  }
+}
